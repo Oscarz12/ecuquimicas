@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ecuquimicas</string>
+    <string name="iniciar">iniciar</string>
+    <string name="todo">TODO</string>
+    <string name="Todo">TODO</string>
+    <string name="TODO">TODO</string>
 </resources>
