@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Ecuquimicas</string>
+    <string name="siguiente">siguiente</string>
+    <string name="menu">Menu</string>
+    <string name="perfil">Perfil</string>
+    <string name="todo">TODO</string>
+    <string name="tarea">Tarea</string>
+    <string name="TODO">TODO</string>
+    <string name="teoria">Teoria</string>
+    <string name="TODo">TODO</string>
+    <string name="Todo">TODO</string>
+    <string name="TodO">TODO</string>
 </resources>
