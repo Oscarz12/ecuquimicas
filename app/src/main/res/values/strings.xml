@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ecuquimicas</string>
+    <string name="flecha_continuar">Flecha continuar</string>
+    <string name="todo">TODO</string>
+    <string name="TODO">TODO</string>
+    <string name="continuar">Continuar</string>
 </resources>
