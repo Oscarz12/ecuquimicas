@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Ecuquimicas</string>
+    <string name="iniciar_sesi_n">INICIAR SESIÓN</string>
+    <string name="olvidaste_tu_contrase_a">Olvidaste tu contraseña</string>
+    <string name="correo">Correo</string>
+    <string name="correo1">CORREO</string>
+    <string name="contrase_a">CONTRASEÑA</string>
+    <string name="ingresar_con">INGRESAR CON:</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="Td">TODO</string>
+    <string name="imagen">TODO</string>
+    <string name="contraseña1">Contraseña</string>
+    <string name="correo2">correo</string>
 </resources>
