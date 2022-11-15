@@ -19,7 +19,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/ni3"
-        android:contentDescription="@string/todo" />
+        android:contentDescription="@string/bienvenido_inicio" />
 
     <ImageView
         android:id="@+id/imageView6"
@@ -31,7 +31,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView4"
         app:srcCompat="@drawable/descarga"
-        android:contentDescription="@string/TODO" />
+        android:contentDescription="@string/caricatura_de_un_cient_fico" />
 
     <ImageButton
         android:id="@+id/imageView"
@@ -42,7 +42,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
         android:background="@drawable/ic_flechaizquierda"
-        android:contentDescription="@string/flecha_continuar"
+        android:contentDescription="@string/iniciar_sesi_n"
         android:scaleType="fitCenter"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -50,10 +50,10 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView6" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/inicio"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/continuar"
+        android:text="@string/inicio"
         android:textColor="@color/white"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="@+id/imageView"

@@ -8,4 +8,6 @@
   <color name="secondaryDarkColor">#5FDCEC</color>
   <color name="primaryTextColor">#000000</color>
   <color name="secondaryTextColor">#000000</color>
+  <color name="black">#000000</color>
+  <color name="white">#000000</color>
 </resources>

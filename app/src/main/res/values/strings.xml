@@ -6,12 +6,27 @@
     <string name="correo1">CORREO</string>
     <string name="contrase_a">CONTRASEÑA</string>
     <string name="ingresar_con">INGRESAR CON:</string>
-    <string name="todo">TODO</string>
-    <string name="todo1">TODO</string>
-    <string name="todo2">TODO</string>
-    <string name="todo3">TODO</string>
-    <string name="Td">TODO</string>
-    <string name="imagen">TODO</string>
     <string name="contraseña1">Contraseña</string>
     <string name="correo2">correo</string>
+    <string name="icono_de_la_app">Icono de la app</string>
+    <string name="atomo">Atomo</string>
+    <string name="inicio">inicio</string>
+    <string name="caricatura_de_un_cient_fico">caricatura de un científico</string>
+    <string name="titulo_del_proyecto">titulo del proyecto</string>
+    <string name="imagen_fondo_quimica">imagen fondo quimica</string>
+    <string name="perfil">perfil</string>
+    <string name="menu">menu</string>
+    <string name="logo_perfil">logo perfil</string>
+    <string name="imagen_libro">imagen libro</string>
+    <string name="tarea">tarea</string>
+    <string name="teoria">teoria</string>
+    <string name="iniciar">iniciar</string>
+    <string name="imagen_enlace_quimico">imagen enlace quimico</string>
+    <string name="Titulo_enlace_quimico">titulo</string>
+    <string name="imagen_gmail">imagen gmail</string>
+    <string name="imagen_contraseña">imagen contraseña</string>
+    <string name="inicio_sesion">inicio sesion</string>
+    <string name="imagen_facebook">imagen facebook</string>
+    <string name="bienvenido_inicio">bienvenido inicio</string>
+
 </resources>

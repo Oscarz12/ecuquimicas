@@ -12,7 +12,7 @@
         android:layout_width="248dp"
         android:layout_height="220dp"
         android:layout_marginTop="104dp"
-        android:contentDescription="@string/TODO"
+        android:contentDescription="@string/icono_de_la_app"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
@@ -23,7 +23,7 @@
         android:id="@+id/imageView"
         android:layout_width="195dp"
         android:layout_height="127dp"
-        android:contentDescription="@string/Todo"
+        android:contentDescription="@string/atomo"
         app:layout_constraintBottom_toBottomOf="@id/imageView3"
         app:layout_constraintEnd_toEndOf="@+id/imageView3"
         app:layout_constraintHorizontal_bias="0.509"
@@ -35,7 +35,7 @@
         android:id="@+id/imageView11"
         android:layout_width="351dp"
         android:layout_height="116dp"
-        android:contentDescription="@string/todo"
+        android:contentDescription="@string/titulo_del_proyecto"
         app:layout_constraintBottom_toTopOf="@+id/imageView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -44,13 +44,16 @@
         app:srcCompat="@drawable/ima_6" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonIniciar"
         android:layout_width="107dp"
         android:layout_height="63dp"
         android:layout_marginBottom="56dp"
         android:text="@string/iniciar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3"
+        app:layout_constraintVertical_bias="0.862" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

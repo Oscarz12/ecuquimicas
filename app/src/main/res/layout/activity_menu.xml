@@ -14,17 +14,17 @@
         android:layout_height="425dp"
         android:layout_marginStart="2dp"
         android:layout_marginEnd="7dp"
-        android:contentDescription="@string/TODO"
+        android:contentDescription="@string/imagen_fondo_quimica"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.035"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/fondo_de_pantalla" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/inicio"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="72dp"
@@ -48,7 +48,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.063"
         app:srcCompat="@drawable/menu_48px"
-        android:contentDescription="@string/Todo" />
+        android:contentDescription="@string/menu" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -57,11 +57,11 @@
         android:layout_marginTop="48dp"
         android:layout_marginEnd="20dp"
         android:background="#FFFFFF"
-        app:layout_constraintEnd_toStartOf="@+id/textView"
+        app:layout_constraintEnd_toStartOf="@+id/inicio"
         app:layout_constraintStart_toStartOf="@+id/imageView"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
         app:srcCompat="@drawable/person_48px"
-        android:contentDescription="@string/TodO" />
+        android:contentDescription="@string/logo_perfil" />
 
     <ImageView
         android:id="@+id/imageView3"
@@ -75,7 +75,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView2"
         app:srcCompat="@drawable/menu_book_48px"
-        android:contentDescription="@string/todo" />
+        android:contentDescription="@string/imagen_libro" />
 
     <ImageView
         android:id="@+id/imageView4"
@@ -88,20 +88,20 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3"
         app:srcCompat="@drawable/assignment_48px"
-        android:contentDescription="@string/TODo" />
+        android:contentDescription="@string/tarea" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="50dp"
         android:layout_height="24dp"
-        android:layout_marginBottom="56dp"
+        android:layout_marginBottom="60dp"
         android:background="#FDFFFF"
         android:text="@string/teoria"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/textView3"
         app:layout_constraintEnd_toEndOf="@+id/textView4"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="@+id/textView" />
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/inicio" />
 
     <TextView
         android:id="@+id/textView3"

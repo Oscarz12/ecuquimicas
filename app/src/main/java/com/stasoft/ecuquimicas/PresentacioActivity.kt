@@ -6,6 +6,6 @@ import android.os.Bundle
 class PresentacioActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_presentacio)
+        setContentView(R.layout.activity_presentacion)
     }
 }
